@@ -1,0 +1,8 @@
+{
+  "ExampleTopic": {
+    "handles": ["user1", "user2", "user3"],
+    "frequency": "daily",
+    "triggerTime": "23:00",
+    "description": "示例主题，替换为你自己的 handles"
+  }
+}
