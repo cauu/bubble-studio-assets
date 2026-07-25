@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_light</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2FFFF3" offset="0%"></stop>
+            <stop stop-color="#078CBE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FC5FF6" offset="0%"></stop>
+            <stop stop-color="#C60A76" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FAE43A" offset="0%"></stop>
+            <stop stop-color="#FFA41A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#2FFFF3" offset="0%"></stop>
+            <stop stop-color="#12C2BB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-3.08414663%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#31EE6B" offset="0%"></stop>
+            <stop stop-color="#079F1B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#C141F2" offset="0%"></stop>
+            <stop stop-color="#590AC6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_light">
+            <rect id="矩形备份-2" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
+            <g id="编组-2备份-2" transform="translate(33.3125, 77)">
+                <path d="M90.2844926,6.49063309 L133.084006,80.4981247 C133.913469,81.9324042 133.423168,83.7675298 131.988889,84.5969926 C131.532385,84.8609945 131.014358,85 130.487013,85 L44.8879868,85 C43.2311325,85 41.8879868,83.6568542 41.8879868,82 C41.8879868,81.4726555 42.0269923,80.954628 42.2909941,80.4981247 L85.0905074,6.49063309 C85.9199702,5.05635366 87.7550958,4.56605291 89.1893753,5.39551571 C89.5790289,5.62085758 89.9121307,5.9304863 90.1649079,6.30062898 L90.2844926,6.49063309 Z" id="多边形" fill="url(#linearGradient-1)"></path>
+                <path d="M48.1420455,3 C66.6686884,3 81.6875,18.0188116 81.6875,36.5454545 C81.6875,55.0720975 66.6686884,70.0909091 48.1420455,70.0909091 L29,70.09 L29,81 C29,83.209139 27.209139,85 25,85 L4,85 C1.790861,85 0,83.209139 0,81 L0,7 C0,4.89620373 1.62413885,3.17174542 3.68697395,3.01206766 L3.6875,3 L48.1420455,3 Z" id="路径" fill="url(#linearGradient-2)"></path>
+                <circle id="椭圆形" fill="url(#linearGradient-3)" cx="136.1875" cy="42.5" r="42.5"></circle>
+                <path d="M90.2844926,6.49063309 L133.084006,80.4981247 C133.913469,81.9324042 133.423168,83.7675298 131.988889,84.5969926 C131.532385,84.8609945 131.014358,85 130.487013,85 L44.8879868,85 C43.2311325,85 41.8879868,83.6568542 41.8879868,82 C41.8879868,81.4726555 42.0269923,80.954628 42.2909941,80.4981247 L85.0905074,6.49063309 C85.9199702,5.05635366 87.7550958,4.56605291 89.1893753,5.39551571 C89.5790289,5.62085758 89.9121307,5.9304863 90.1649079,6.30062898 L90.2844926,6.49063309 Z" id="多边形" fill="url(#linearGradient-4)" style="mix-blend-mode: overlay;"></path>
+                <path d="M99.0983707,21.7324252 L133.084006,80.4981247 C133.913469,81.9324042 133.423168,83.7675298 131.988889,84.5969926 C131.881886,84.6588738 131.771503,84.7138874 131.658412,84.7618531 C110.315152,82.4999824 93.6875,64.4417894 93.6875,42.5 C93.6875,34.9572195 95.6524423,27.8733758 99.0983707,21.7324252 Z" id="路径" fill="url(#linearGradient-5)"></path>
+                <path d="M81.6875,36.5454545 C81.6875,55.0155812 66.7601797,69.9992454 48.3114961,70.0904901 L77.3047442,19.9556162 C80.093971,24.8481528 81.6875,30.5107094 81.6875,36.5454545 Z" id="路径" fill="url(#linearGradient-6)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
